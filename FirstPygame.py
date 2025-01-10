@@ -1,3 +1,6 @@
+# bouncing rectangle Pygame program
+__version__ = '1/10/2025'
+__author__ = 'Julian Cochran'
 import pygame
 import random
 
